@@ -1,0 +1,4 @@
+pymysql
+pymongo
+prettytable
+python-dotenv
